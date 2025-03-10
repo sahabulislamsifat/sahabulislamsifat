@@ -8,8 +8,9 @@ I’m a passionate **MERN Stack Developer** dedicated to building **scalable, re
 
 ✅ **Frontend:** React.js, JavaScript, HTML, CSS, TailwindCSS  
 ✅ **Backend:** Node.js, Express.js  
-✅ **Database:** MongoDB  
-✅ **Tools & Technologies:** Git, REST APIs, JWT Authentication  
+✅ **Database:** MongoDB, Firebase  
+✅ **Authentication:** Firebase Auth, JWT  
+✅ **Tools & Technologies:** Git, REST APIs  
 
 ---
 
@@ -40,6 +41,9 @@ The tech industry moves fast, and I move with it. I embrace new challenges, acti
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
