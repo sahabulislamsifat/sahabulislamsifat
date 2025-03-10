@@ -48,13 +48,13 @@ The tech industry moves fast, and I move with it. I embrace new challenges, acti
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahabulislamsifat&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=sahabulislamsifat&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahabulislamsifat&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahabulislamsifat&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
