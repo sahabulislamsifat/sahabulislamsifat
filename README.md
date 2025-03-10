@@ -61,7 +61,6 @@ The tech industry moves fast, and I move with it. I embrace new challenges, acti
 
 ## 📫 Let's Connect & Collaborate!  
 🔹 **Email:** [sahabulislamsifat@gmail.com](mailto:sahabulislamsifat@gmail.com)  
-🔹 **GitHub:** [github.com/sahabulislamsifat](https://github.com/sahabulislamsifat)  
 🔹 **WhatsApp:** [01632165523](https://wa.me/8801632165523)  
 
 🚀 _"Code. Build. Innovate."_  
