@@ -8,7 +8,7 @@ I’m a passionate **MERN Stack Developer** dedicated to building **scalable, re
 
 ✅ **Frontend:** React.js, JavaScript, HTML, CSS, TailwindCSS  
 ✅ **Backend:** Node.js, Express.js  
-✅ **Database:** MongoDB, Firebase  
+✅ **Database:** MongoDB, Mongoose  
 ✅ **Authentication:** Firebase Auth, JWT  
 ✅ **Tools & Technologies:** Git, REST APIs  
 
