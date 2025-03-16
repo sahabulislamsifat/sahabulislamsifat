@@ -37,8 +37,6 @@ I’m a passionate **MERN Stack Developer** dedicated to building **scalable, re
   <a href="https://git-scm.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git" width="40" height="40"/> </a>
 </div>
 
----
-
 
 
 ---
