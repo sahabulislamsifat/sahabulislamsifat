@@ -24,19 +24,17 @@ I’m a passionate **MERN Stack Developer** dedicated to building **scalable, re
 ---
 
 ### 🛠️ Languages & Tools
-<div align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="Next.js" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a>
-  <a href="https://mongoosejs.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/7552965?s=280&v=4" alt="Mongoose" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git" width="40" height="40"/> </a>
-</div>
-
+<p align="left">
+  <img src="https://img.icons8.com/color/512/javascript.png" width="35" height="36" />
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="28" height="28" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="28" height="28" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="28" height="28" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" width="28" height="28" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000" width="28" height="28" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/?size=100&id=gKfcEStXI1Hm&format=png&color=000000" width="28" height="28" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" width="28" height="28" style="vertical-align: middle;"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="28" height="28" style="vertical-align: middle;"/>
+</p>
 
 
 ---
@@ -45,4 +43,4 @@ I’m a passionate **MERN Stack Developer** dedicated to building **scalable, re
 📧 **Email:** [sahabulislamsifat@gmail.com](mailto:sahabulislamsifat@gmail.com)  
 💬 **WhatsApp:** [01632165523](https://wa.me/8801632165523)  
 
-🚀 _"Code. Build. Innovate."_
+<>"Code. Build. Innovate."</>
