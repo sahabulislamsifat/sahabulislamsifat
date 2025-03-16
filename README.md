@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/85add4a9633786947f86fe4e86eb5aca6b190ff47345434755a0d98f488fefa7/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" alt="Coding GIF" width="100%"/>
-</p>
+
 
 <h1 >👋 Hi, I'm Sahabul Islam Sifat</h1>
 
@@ -41,14 +39,7 @@ I’m a passionate **MERN Stack Developer** dedicated to building **scalable, re
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahabulislamsifat&layout=compact&theme=tokyonight" alt="Top Languages" width="48%"/>
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sahabulislamsifat&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahabulislamsifat&theme=tokyonight" alt="GitHub Streak" width="48%"/>
-</p>
+
 
 ---
 
