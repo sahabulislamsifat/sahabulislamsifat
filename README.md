@@ -5,14 +5,14 @@
   <strong>
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Tech+Enthusiast;Lifelong+Learner">
+              srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Front-End+Developer;Tech+Enthusiast;Lifelong+Learner">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
     </picture>
   </strong>
 </p>
 
 ## 👨‍💻 About Me
-I’m a passionate **MERN Stack Developer** dedicated to building **scalable, responsive, and user-friendly** web applications with clean, maintainable code. I enjoy tackling complex problems, exploring new technologies, and contributing to innovative projects.
+I’m a passionate **Front-End Stack Developer** dedicated to building **scalable, responsive, and user-friendly** web applications with clean, maintainable code. I enjoy tackling complex problems, exploring new technologies, and contributing to innovative projects.
 
 ---
 
