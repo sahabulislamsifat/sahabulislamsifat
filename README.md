@@ -5,20 +5,21 @@
   <strong>
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-              srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Front-End+Developer;Tech+Enthusiast;Lifelong+Learner">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+              srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&height=40&lines=Full-Stack+Developer;TypeScript+Enthusiast;Lifelong+Learner">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=500&height=40&lines=MERN+%2B+PostgreSQL+Developer;Tech+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
     </picture>
   </strong>
 </p>
 
 ## 👨‍💻 About Me
-I’m a passionate **Front-End Stack Developer** dedicated to building **scalable, responsive, and user-friendly** web applications with clean, maintainable code. I enjoy tackling complex problems, exploring new technologies, and contributing to innovative projects.
+I’m a passionate **Full-Stack Developer** dedicated to building **scalable, responsive, and user-friendly** web applications with clean, maintainable code. I enjoy tackling complex problems, exploring new technologies like type-safe architectures and relational databases, and contributing to innovative projects.
 
 ---
 
 ## 🛠️ Languages and Tools
 
-### **Language**
+### **Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Frontend**
@@ -27,10 +28,13 @@ I’m a passionate **Front-End Stack Developer** dedicated to building **scalabl
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-18181B?style=for-the-badge&logo=shadcn&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-### **Backend**
+### **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -43,8 +47,6 @@ I’m a passionate **Front-End Stack Developer** dedicated to building **scalabl
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-18181B?style=for-the-badge&logo=shadcn&logoColor=white)
 
 ### **Deployment & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
